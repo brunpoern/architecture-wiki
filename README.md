@@ -1,1 +1,1 @@
-[My Architecture Wiki](https://github.com/brunpoern/architecure-wiki/wiki)
+[My Architecture Wiki](https://github.com/brunpoern/architecture-wiki/wiki)
